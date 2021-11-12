@@ -1,5 +1,7 @@
 # Hi! I'm Tim Bauman
 
+![It's me!](assets/zion.jpg)
+
 Welcome to my lazy website! I'm a Software Engineer dabbling in writing. I'm interested in a few things:
 - I'm teaching myself about artificial intelligence. I'm particularly interested in large language models, AI safety, and multimodal AI (although as of writing in November 2021 I'm pretty new to all these topics). I'm keeping track of the things I learn at my blog/newsletter, [The Truth Machine](https://the.truthm.com/)
 - I have a background in product & platform software development. I'm also interested in how to automate complex business processes, which I think is one of the biggest problems tech companies can tackle to create value
