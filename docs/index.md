@@ -1,6 +1,6 @@
 # Hi! I'm Tim Bauman
 
-<img src="assets/zion.jpg" alt="It's me" width="300" height="280" align="center" />
+<p align="center"><img src="assets/zion.jpg" alt="It's me" width="300" height="280" /></p>
 
 Welcome to my lazy website! I'm a Software Engineer dabbling in writing. I'm interested in a few things:
 - I'm teaching myself about artificial intelligence. I'm particularly interested in large language models, AI safety, and multimodal AI (although as of writing in November 2021 I'm pretty new to all these topics). I'm keeping track of the things I learn at my blog/newsletter, [The Truth Machine](https://the.truthm.com/)
