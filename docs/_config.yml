@@ -1,9 +1,5 @@
 theme: jekyll-theme-minimal
 title: Hi! I'm Tim Bauman
-description:
-  - [The Truth Machine - my blog/newsletter about my thoughts on AI](https://the.truthm.com/)
-  - [Twitter](https://twitter.com/TimBauman)
-  - [LinkedIn](https://www.linkedin.com/in/tim-bauman-6b4bb513/)
 github.is_project_page: false
 github:
   is_user_page: false
