@@ -7,7 +7,7 @@ Welcome to my lazy little website! I'm a Software Engineer dabbling in writing. 
 - I like to run and do yoga too
 
 Here's where I can be found elsewhere on the Internet:
-- [The Truth Machine - my blog/newsletter about my thoughts on AI](https://the.truthm.com/)
+- [truthm.com - my blog/newsletter about my thoughts on AI](https://www.truthm.com/)
 - [Medium](https://medium.com/@timbauman)
 - [Twitter](https://twitter.com/TimBauman)
 - [LinkedIn](https://www.linkedin.com/in/tim-bauman-6b4bb513/)
