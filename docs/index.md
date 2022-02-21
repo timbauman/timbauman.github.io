@@ -1,5 +1,5 @@
 Welcome to my lazy little website! I'm a Software Engineer dabbling in writing. I'm interested in a few things:
-- I'm teaching myself about artificial intelligence. I'm particularly interested in large language models, AI safety, and multimodal AI (although as of writing in November 2021 I'm pretty new to all these topics). I'm keeping track of the things I learn at my blog/newsletter, [The Truth Machine](https://the.truthm.com/)
+- I'm teaching myself about artificial intelligence. I'm particularly interested in large language models, AI safety, and multimodal AI (although as of writing in November 2021 I'm pretty new to all these topics). I'm keeping track of the things I learn at my blog/newsletter, [Truth Media](https://the.truthm.com/)
 - I have a background in product & platform software development. I'm interested in how to automate complex business processes, which I think is one of the biggest problems tech companies can tackle to create value
 - I'm blogging about AI and other thoughts. I'm experimenting with freelance journalism too
 - I like learning about global development, economic policy, local politics, short fiction, and biology
@@ -7,7 +7,7 @@ Welcome to my lazy little website! I'm a Software Engineer dabbling in writing. 
 - I like to run and do yoga too
 
 Here's where I can be found elsewhere on the Internet:
-- [truthm.com - my blog/newsletter about my thoughts on AI](https://www.truthm.com/)
+- [Truth Media - my blog/newsletter about my thoughts on AI](https://www.truthm.com/)
 - [Medium](https://medium.com/@timbauman)
 - [Twitter](https://twitter.com/TimBauman)
 - [LinkedIn](https://www.linkedin.com/in/tim-bauman-6b4bb513/)
