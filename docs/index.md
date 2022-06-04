@@ -11,6 +11,7 @@ Here's where I can be found elsewhere on the Internet:
 - [Medium](https://medium.com/@timbauman)
 - [Twitter](https://twitter.com/TimBauman)
 - [LinkedIn](https://www.linkedin.com/in/tim-bauman-6b4bb513/)
+- [Google Scholar](https://scholar.google.com/citations?user=KtUuhmgAAAAJ&hl=en)
 - [Goodreads](https://www.goodreads.com/user/show/12248634-tim)
 - [Github](https://github.com/timbauman)
 - [Facebook](https://facebook.com/timbauman)
